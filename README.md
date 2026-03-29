@@ -41,15 +41,18 @@ This project aims to build a robust Convolutional Neural Network (CNN) from scra
 
 ### 📊 2. مصفوفة الارتباك | Confusion Matrix
 > تحليل تفصيلي لعدد الصور التي تم تصنيفها بشكل صحيح والخاطئ لكل فئة.
-![Confusion Matrix](<    >)
+![Confusion Matrix](<  <img width="751" height="633" alt="Confusion_Matrix" src="https://github.com/user-attachments/assets/a857903a-2be7-42e1-b270-163200bbd119" />
+  >)
 
 ### 📝 3. تقرير التصنيف | Classification Report
 > أرقام تفصيلية توضح دقة النموذج (Precision, Recall, F1-Score).
-![Classification Report](<    >)
+![Classification Report](<  <img width="551" height="206" alt="Classification_Report" src="https://github.com/user-attachments/assets/9bf8c2e4-67b5-4fe9-abf8-1f7d032a8064" />
+  >)
 
 ### 🏁 4. التقييم النهائي | Final Evaluation
 > النتيجة النهائية التي حققها النموذج على بيانات الاختبار المستقلة.
-![Model Evaluation](<    >)
+![Model Evaluation](<  <img width="665" height="149" alt="Model_Evaluation" src="https://github.com/user-attachments/assets/fe023b60-b4c8-40a2-af0e-6a703a44e943" />
+  >)
 
 ---
 
@@ -58,15 +61,18 @@ This project aims to build a robust Convolutional Neural Network (CNN) from scra
 
 **الحالة الأولى: تصنيف صحيح لقطة (Correct Prediction: CAT)**
 > الموديل يركز على ملامح الوجه والأذنين.
-![Grad-CAM Cat](<    >)
+![Grad-CAM Cat](<  <img width="1081" height="557" alt="Grade_CAM_1" src="https://github.com/user-attachments/assets/42363197-d312-48cd-a05a-896d031b530d" />
+  >)
 
 **الحالة الثانية: تصنيف صحيح لكلب (Correct Prediction: DOG)**
 > الموديل يركز على جسم وهيكل الكلب لتمييزه.
-![Grad-CAM Dog Correct](<    >)
+![Grad-CAM Dog Correct](<  <img width="1088" height="562" alt="Grade_CAM_2" src="https://github.com/user-attachments/assets/f82e4d8a-9ab0-4c2c-b1db-65532d08e981" />
+  >)
 
 **الحالة الثالثة: خطأ في التصنيف (Miss-classification Case)**
 > هنا نرى أين تشتت انتباه الموديل (صنف كلب على أنه قطة) بسبب زاوية التصوير أو الخلفية.
-![Grad-CAM Error Case](<    >)
+![Grad-CAM Error Case](<  <img width="1084" height="562" alt="Grade_CAM_3" src="https://github.com/user-attachments/assets/b1700f8f-9006-4018-8608-a30e564b9cb4" />
+  >)
 
 
 ​💻 Technologies Used | التقنيات المستخدمة
