@@ -35,9 +35,12 @@ English:
 ​الدقة النهائية: حقق النموذج دقة تصل إلى 83.59% على بيانات الاختبار.
 ​نسبة الفقد: تم تقليل الفقد إلى 0.3851.
 ​القوة: درجة F1-score عالية ومتوازنة للفئتين، مما يدل على استقرار النموذج وعدم انحيازه.
+
 ​🖼️ Visualizations | الرسوم البيانية والنتائج
-​1. Learning Curves (Accuracy & Loss)
-​Shows the steady convergence and stability during the training and validation phases.
+​
+1. Learning Curves (Accuracy & Loss)
+​
+Shows the steady convergence and stability during the training and validation phases.
 يوضح استقرار الموديل وتقارب منحنيات التدريب والاختبار مما يضمن عدم حدوث Overfitting.
 ​2. Confusion Matrix
 ​Detailed breakdown of correct vs. incorrect predictions for both Cats and Dogs.
