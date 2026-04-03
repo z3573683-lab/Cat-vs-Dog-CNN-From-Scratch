@@ -110,8 +110,15 @@ Detailed Classification Metrics |
 
 ### 🏁 4. التقييم النهائي | Final Evaluation
 > النتيجة النهائية التي حققها النموذج على بيانات الاختبار المستقلة.
-![Model Evaluation](<  <img width="665" height="149" alt="Model_Evaluation" src="https://github.com/user-attachments/assets/fe023b60-b4c8-40a2-af0e-6a703a44e943" />
-  >)
+![Model Evaluation](<  <img width="665" height="149" alt="Model_Evaluation" src="https://github.com/user-attachments/assets/fe023b60-b4c8-40a2-af0e-6a703a44e943" />>)
+
+Overall Test Performance | الأداء النهائي لنموذج الاختبار
+​English Description:
+​Final Generalization Results: The model achieves a solid 83.59% accuracy on the independent test set, with a optimized loss of 0.3851. These metrics verify that the custom CNN architecture effectively learned the core distinguishing features of cats and dogs, maintaining consistent performance between training and real-world inference.
+​الوصف بالعربي:
+​نتائج التعميم النهائية:
+حقق النموذج دقة نهائية بلغت 83.59% على مجموعة بيانات الاختبار المستقلة، مع نسبة فقد مثالية وصلت إلى 0.3851. تؤكد هذه الأرقام نجاح بنية الـ CNN المصممة يدوياً في استخلاص الميزات الجوهرية للقطط والكلاب بفاعلية، مع الحفاظ على استقرار الأداء عند اختبار الموديل على بيانات جديدة تماماً.
+
 
 ---
 
