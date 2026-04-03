@@ -95,8 +95,11 @@ Model Performance & Error Analysis |
 > أرقام تفصيلية توضح دقة النموذج (Precision, Recall, F1-Score).
 ![Classification Report](<  <img width="551" height="206" alt="Classification_Report" src="https://github.com/user-attachments/assets/9bf8c2e4-67b5-4fe9-abf8-1f7d032a8064" />>)
 
-Detailed Classification Metrics | مقاييس التصنيف التفصيلية
+Detailed Classification Metrics | 
+مقاييس التصنيف التفصيلية
+
 ​English Description:
+
 ​Statistical Evaluation (Classification Report): The model demonstrates high precision and recall across both classes, achieving an overall Accuracy of 84%. With a Macro F1-Score of 0.83, the results confirm a balanced performance, specifically showing the model's high confidence in identifying cats (90% Precision) and its superior sensitivity in detecting dogs (92% Recall).
 ​الوصف بالعربي:
 ​التقييم الإحصائي (تقرير التصنيف):
