@@ -179,8 +179,11 @@ Error Analysis & Model Limitations |
 ​English Description:
 
 ​Misclassification Case: This visualization provides a deep dive into the model's limitations. The Grad-CAM heatmap reveals that the CNN was distracted by the vertical bars of the cage and the cluttered background, causing it to misidentify the dog as a cat. This highlights the impact of spatial occlusion and environmental noise on feature extraction, providing a clear path for future improvements such as more diverse data augmentation.
+
 ​الوصف بالعربي:
+
 ​حالة خطأ في التصنيف:
+
 يوفر هذا التحليل رؤية عميقة حول معوقات النموذج. تظهر خريطة Grad-CAM الحرارية أن النموذج تشتت بسبب القضبان المعدنية للقفص وتفاصيل الخلفية المزدحمة، مما أدى لتصنيف الكلب كقطة بالخطأ. يوضح هذا المثال تأثير العوائق البصرية والضوضاء المحيطة على عملية استخلاص الميزات، مما يفتح الباب لتحسينات مستقبلية مثل استخدام "تعزيز بيانات" (Data Augmentation) أكثر تنوعاً للتعامل مع بيئات معقدة.
 
 
