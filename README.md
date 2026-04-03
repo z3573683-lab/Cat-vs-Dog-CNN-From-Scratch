@@ -68,7 +68,7 @@ Model Convergence & Training Stability |
 
 ​Training Dynamics (Fine-tuning): The learning curves illustrate a healthy convergence between training and validation metrics. The stability of the validation accuracy around 83.6% and the downward trend of the loss function (reaching ~0.38) confirm that the model is well-regularized and generalizes effectively to unseen data.
 
-​الوصف بال
+​الوصف بالعربي
 
 ​ديناميكيات التدريب (الضبط الدقيق):
 توضح منحنيات التعلم حالة من التقارب الصحي بين مقاييس التدريب والتحقق. استقرار دقة التحقق حول 83.6% مع الاتجاه الهبوطي المستمر لدالة الفقد (لتصل إلى حوالي 0.38) يؤكد كفاءة "التعميم" لدى النموذج واستقراره البرمجي ضد حدوث الـ Overfitting.
