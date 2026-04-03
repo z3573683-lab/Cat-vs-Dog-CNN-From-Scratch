@@ -41,12 +41,19 @@ English:
 1. Learning Curves (Accuracy & Loss)
 ​
 Shows the steady convergence and stability during the training and validation phases.
+
 يوضح استقرار الموديل وتقارب منحنيات التدريب والاختبار مما يضمن عدم حدوث Overfitting.
+
 ​2. Confusion Matrix
+
 ​Detailed breakdown of correct vs. incorrect predictions for both Cats and Dogs.
+
 تحليل دقيق لعدد الحالات الصحيحة والخاطئة لكل فئة لتحديد نقاط القوة والضعف.
-​3. Grad-CAM Analysis
+​
+3. Grad-CAM Analysis
+
 ​"Seeing through the model's eyes" - Identifying exactly where the model looks in the image.
+
 "الرؤية بعيون الموديل" - تحديد المناطق التي يركز عليها النموذج لاتخاذ قراره
 
 ### 📈 1. نتائج التدريب | Training History
