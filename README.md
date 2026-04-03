@@ -135,8 +135,11 @@ Overall Test Performance |
 > الموديل يركز على ملامح الوجه والأذنين.
 ![Grad-CAM Cat](<  <img width="1081" height="557" alt="Grade_CAM_1" src="https://github.com/user-attachments/assets/42363197-d312-48cd-a05a-896d031b530d" />>)
 
-Model Explainability with Grad-CAM | تفسير قرارات النموذج عبر تقنية Grad-CAM
+Model Explainability with Grad-CAM |
+تفسير قرارات النموذج عبر تقنية Grad-CAM
+
 ​English Description:
+
 ​Visual Interpretability: Using Grad-CAM (Gradient-weighted Class Activation Mapping), we can visualize the specific regions that influenced the model's prediction. In this case, the heatmap shows high activation concentrated on the facial features and ears, confirming that the CNN is correctly focusing on anatomical structures of the cat rather than the background noise or the cage.
 ​الوصف بالعربي:
 ​قابلية التفسير البصري:
