@@ -84,7 +84,9 @@ Model Performance & Error Analysis |
 ​English Description:
 
 ​Evaluation Metrics (Confusion Matrix): The matrix demonstrates robust predictive power on the unseen test set. The model achieved a high True Positive rate, correctly identifying 927 dogs and 764 cats. The low False Negative rate (only 85 missed dogs) reflects high sensitivity, confirming the model's reliability in distinguishing complex features between the two classes.
-​الوصف بالعربي:
+
+​الوصف بالعربي
+
 ​مقاييس التقييم (مصفوفة الارتباك):
 تُظهر المصفوفة قدرة تنبؤية قوية للنموذج على بيانات الاختبار. نجح النموذج في التصنيف الصحيح لـ 927 كلب و 764 قطة. كما يعكس الانخفاض الملحوظ في معدل السلبيات الكاذبة (تجاهل 85 كلب فقط) حساسية عالية للموديل، مما يؤكد دقة استخلاص الميزات والتمييز بين الفئتين بفاعلية.
 
