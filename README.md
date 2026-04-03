@@ -141,8 +141,11 @@ Model Explainability with Grad-CAM |
 ​English Description:
 
 ​Visual Interpretability: Using Grad-CAM (Gradient-weighted Class Activation Mapping), we can visualize the specific regions that influenced the model's prediction. In this case, the heatmap shows high activation concentrated on the facial features and ears, confirming that the CNN is correctly focusing on anatomical structures of the cat rather than the background noise or the cage.
+
 ​الوصف بالعربي:
+
 ​قابلية التفسير البصري:
+
 باستخدام تقنية Grad-CAM، نستطيع رؤية المناطق التي أثرت بشكل مباشر على قرار النموذج. تظهر الخريطة الحرارية (Heatmap) تركيزاً عالياً للنشاط عند ملامح الوجه والأذنين، مما يؤكد أن الشبكة العصبية تركز بالفعل على السمات التشريحية للقطة بدلاً من التركيز على خلفية الصورة أو تفاصيل القفص، مما يثبت منطقية وصحة التصنيف.
 
 
