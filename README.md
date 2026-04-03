@@ -78,8 +78,11 @@ Model Convergence & Training Stability |
 > تحليل تفصيلي لعدد الصور التي تم تصنيفها بشكل صحيح والخاطئ لكل فئة.
 ![Confusion Matrix](<  <img width="751" height="633" alt="Confusion_Matrix" src="https://github.com/user-attachments/assets/a857903a-2be7-42e1-b270-163200bbd119" />>)
 
-Model Performance & Error Analysis | تحليل أداء النموذج ومصفوفة الارتباك
+Model Performance & Error Analysis | 
+تحليل أداء النموذج ومصفوفة الارتباك
+
 ​English Description:
+
 ​Evaluation Metrics (Confusion Matrix): The matrix demonstrates robust predictive power on the unseen test set. The model achieved a high True Positive rate, correctly identifying 927 dogs and 764 cats. The low False Negative rate (only 85 missed dogs) reflects high sensitivity, confirming the model's reliability in distinguishing complex features between the two classes.
 ​الوصف بالعربي:
 ​مقاييس التقييم (مصفوفة الارتباك):
