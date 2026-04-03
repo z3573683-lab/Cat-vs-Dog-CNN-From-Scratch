@@ -187,7 +187,9 @@ Targeted Feature Localization |
 ​Clone the repository.
 ​Load the .h5 model file.
 ​Use the predict function to classify your own pet photos!
+
 ​بالعربية:
+
 ​قم بتحميل المشروع.
 ​قم باستدعاء ملف الموديل .h5.
 ​استخدم دالة التوقع (Predict) لتجربة الموديل على صور حيواناتك الأليفة!
