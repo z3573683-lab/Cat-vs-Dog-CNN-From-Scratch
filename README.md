@@ -174,12 +174,15 @@ Targeted Feature Localization |
   >)
 
 
-​💻 Technologies Used | التقنيات المستخدمة
+​💻 Technologies Used | 
+التقنيات المستخدمة
 ​Language: Python.
 ​Deep Learning: TensorFlow / Keras.
 ​Visualization: Matplotlib, Seaborn.
 ​Environment: Google Colab (T4 GPU).
-​🚀 How to Use | كيفية الاستخدام
+
+​🚀 How to Use | 
+كيفية الاستخدام
 ​English:
 ​Clone the repository.
 ​Load the .h5 model file.
