@@ -208,3 +208,8 @@ Error Analysis & Model Limitations |
 ​قم باستدعاء ملف الموديل .h5.
 ​استخدم دالة التوقع (Predict) لتجربة الموديل على صور حيواناتك الأليفة!
 
+
+## 👤 Author
+**[MOHAMED BELAL]** *Deep Learning & Data Engineering Enthusiast*
+
+MY PHONE [01018689118]
