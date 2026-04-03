@@ -133,8 +133,15 @@ Overall Test Performance |
 
 **الحالة الأولى: تصنيف صحيح لقطة (Correct Prediction: CAT)**
 > الموديل يركز على ملامح الوجه والأذنين.
-![Grad-CAM Cat](<  <img width="1081" height="557" alt="Grade_CAM_1" src="https://github.com/user-attachments/assets/42363197-d312-48cd-a05a-896d031b530d" />
-  >)
+![Grad-CAM Cat](<  <img width="1081" height="557" alt="Grade_CAM_1" src="https://github.com/user-attachments/assets/42363197-d312-48cd-a05a-896d031b530d" />>)
+
+Model Explainability with Grad-CAM | تفسير قرارات النموذج عبر تقنية Grad-CAM
+​English Description:
+​Visual Interpretability: Using Grad-CAM (Gradient-weighted Class Activation Mapping), we can visualize the specific regions that influenced the model's prediction. In this case, the heatmap shows high activation concentrated on the facial features and ears, confirming that the CNN is correctly focusing on anatomical structures of the cat rather than the background noise or the cage.
+​الوصف بالعربي:
+​قابلية التفسير البصري:
+باستخدام تقنية Grad-CAM، نستطيع رؤية المناطق التي أثرت بشكل مباشر على قرار النموذج. تظهر الخريطة الحرارية (Heatmap) تركيزاً عالياً للنشاط عند ملامح الوجه والأذنين، مما يؤكد أن الشبكة العصبية تركز بالفعل على السمات التشريحية للقطة بدلاً من التركيز على خلفية الصورة أو تفاصيل القفص، مما يثبت منطقية وصحة التصنيف.
+
 
 **الحالة الثانية: تصنيف صحيح لكلب (Correct Prediction: DOG)**
 > الموديل يركز على جسم وهيكل الكلب لتمييزه.
