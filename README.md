@@ -3,12 +3,18 @@ A Deep Learning project to classify Cats and Dogs using a custom CNN architectur
 
 ​🐾 Cat vs Dog Classification | Deep Learning from Scratch
 ​📝 مشروع تصنيف القطط والكلاب باستخدام الشبكات العصبية التلافيفية (من الصفر)
-​📖 Overview | نظرة عامة
-​English:
+​📖 Overview | 
+نظرة عامة
+​
+English:
 This project aims to build a robust Convolutional Neural Network (CNN) from scratch to classify images of cats and dogs. Unlike using pre-trained models, this project focuses on understanding the underlying architecture, data engineering, and model interpretability using Grad-CAM.
-​بالعربية:
+
+​بالعربية
+
 يهدف هذا المشروع إلى بناء شبكة عصبية تلافيفية (CNN) قوية من الصفر لتصنيف صور القطط والكلاب. على عكس استخدام النماذج الجاهزة، يركز هذا المشروع على فهم الهيكل الأساسي، هندسة البيانات، وتفسير قرارات النموذج باستخدام تقنية Grad-CAM.
-​🛠️ Key Features | أهم مميزات المشروع
+
+​🛠️ Key Features | 
+أهم مميزات المشروع
 ​Custom CNN Architecture: Built a multi-layer CNN optimized for binary classification.
 ​Data Augmentation: Implemented ImageDataGenerator with rotation, zoom, and flips to prevent overfitting and improve generalization.
 ​Fine-Tuning: Applied learning rate scheduling (1e-5) to stabilize training and reach peak accuracy.
