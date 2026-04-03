@@ -153,11 +153,17 @@ Model Explainability with Grad-CAM |
 > الموديل يركز على جسم وهيكل الكلب لتمييزه.
 ![Grad-CAM Dog Correct](<  <img width="1088" height="562" alt="Grade_CAM_2" src="https://github.com/user-attachments/assets/f82e4d8a-9ab0-4c2c-b1db-65532d08e981" />>)
 
-Targeted Feature Localization | تحديد الميزات المستهدفة بدقة
+Targeted Feature Localization | 
+تحديد الميزات المستهدفة بدقة
+
 ​English Description:
+
 ​Correct Dog Classification: The Grad-CAM heatmap reveals that the model effectively captures the distinctive anatomical structure of the dog. By focusing on the body shape and facial proportions, the CNN demonstrates its ability to differentiate between classes based on relevant biological markers rather than secondary environmental factors.
+
 ​الوصف بالعربي:
+
 ​تصنيف صحيح لفئة الكلاب:
+
 تكشف خريطة Grad-CAM الحرارية أن النموذج يلتقط بفاعلية الهيكل التشريحي المميز للكلب. من خلال التركيز على شكل الجسم وتناسب ملامح الوجه، يثبت النموذج قدرته على التمييز بين الفئات بناءً على العلامات الحيوية ذات الصلة، وليس بناءً على عوامل بيئية ثانوية في خلفية الصورة.
 
 
