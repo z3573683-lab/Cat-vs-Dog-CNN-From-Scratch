@@ -61,10 +61,15 @@ Shows the steady convergence and stability during the training and validation ph
 ![Loss and Accuracy](<  <img width="1355" height="512" alt="graph_accuracy_and_loss" src="https://github.com/user-attachments/assets/ed45acd1-5a82-479c-824f-0bcd3f703c94" />
   >)
 
-Model Convergence & Training Stability | استقرار النموذج وتقارب منحنيات التعلم
+Model Convergence & Training Stability | 
+استقرار النموذج وتقارب منحنيات التعلم
+
 ​English Description:
+
 ​Training Dynamics (Fine-tuning): The learning curves illustrate a healthy convergence between training and validation metrics. The stability of the validation accuracy around 83.6% and the downward trend of the loss function (reaching ~0.38) confirm that the model is well-regularized and generalizes effectively to unseen data.
-​الوصف بالعربي:
+
+​الوصف بال
+
 ​ديناميكيات التدريب (الضبط الدقيق):
 توضح منحنيات التعلم حالة من التقارب الصحي بين مقاييس التدريب والتحقق. استقرار دقة التحقق حول 83.6% مع الاتجاه الهبوطي المستمر لدالة الفقد (لتصل إلى حوالي 0.38) يؤكد كفاءة "التعميم" لدى النموذج واستقراره البرمجي ضد حدوث الـ Overfitting.
 
