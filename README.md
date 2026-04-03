@@ -15,17 +15,23 @@ This project aims to build a robust Convolutional Neural Network (CNN) from scra
 
 ​🛠️ Key Features | 
 أهم مميزات المشروع
+
 ​Custom CNN Architecture: Built a multi-layer CNN optimized for binary classification.
 ​Data Augmentation: Implemented ImageDataGenerator with rotation, zoom, and flips to prevent overfitting and improve generalization.
 ​Fine-Tuning: Applied learning rate scheduling (1e-5) to stabilize training and reach peak accuracy.
 ​Model Explainability (Grad-CAM): Visualized heatmaps to understand which image features (ears, nose, fur) the model focuses on for its predictions.
 ​Professional Evaluation: Used Confusion Matrix and Classification Reports to analyze performance beyond simple accuracy.
-​📊 Performance | أداء النموذج
-​English:
+
+​📊 Performance | 
+أداء النموذج
+​
+English:
 ​Final Accuracy: Reached 83.59% on the unseen test set.
 ​Final Loss: Optimized down to 0.3851.
 ​Robustness: High F1-score for both classes, indicating a balanced model.
-​بالعربية:
+
+​بالعربية
+
 ​الدقة النهائية: حقق النموذج دقة تصل إلى 83.59% على بيانات الاختبار.
 ​نسبة الفقد: تم تقليل الفقد إلى 0.3851.
 ​القوة: درجة F1-score عالية ومتوازنة للفئتين، مما يدل على استقرار النموذج وعدم انحيازه.
