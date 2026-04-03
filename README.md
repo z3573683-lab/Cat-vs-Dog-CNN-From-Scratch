@@ -101,7 +101,9 @@ Detailed Classification Metrics |
 ​English Description:
 
 ​Statistical Evaluation (Classification Report): The model demonstrates high precision and recall across both classes, achieving an overall Accuracy of 84%. With a Macro F1-Score of 0.83, the results confirm a balanced performance, specifically showing the model's high confidence in identifying cats (90% Precision) and its superior sensitivity in detecting dogs (92% Recall).
-​الوصف بالعربي:
+
+​الوصف بالعربي
+
 ​التقييم الإحصائي (تقرير التصنيف):
 يُظهر الموديل توازناً كبيراً بين الدقة (Precision) والاستدعاء (Recall) للفئتين، محققاً دقة إجمالية بنسبة 84%. تشير قيمة F1-Score (0.83) إلى كفاءة الأداء واستقراره، مع تميز واضح في دقة تحديد القطط (90%) وحساسية عالية جداً في اكتشاف فئة الكلاب (92%).
 
